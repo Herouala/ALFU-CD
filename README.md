@@ -42,7 +42,7 @@ Outputs include plots exported to PDF.
 
 🚀 Getting Started
 1. Clone the repository
-2. git clone https://github.com/Herouala/ndn-caching-alfu-cd.git
+2. https://github.com/Herouala/ndn-caching-alfu-cd.git
 cd ndn-caching-alfu-cd
 2. Install dependencies
 
@@ -50,12 +50,12 @@ This project requires Python 3 and the following libraries:
 pip install numpy==1.24.0 matplotlib==3.6.3 scipy==1.14.1
 
 3. Run simulations
-4. python simulate.py
+4. python ALFU-CD.py
 This will generate a cache_strategies_results.pdf file containing plots of all metrics.
 
 📂 Repository Structure
 .
-├── simulate.py                # Main simulation code
+├── ALFU-CD.py                # Main simulation code
 ├── cache_strategies_results.pdf (output after running)
 ├── README.md                  # Project description
 
